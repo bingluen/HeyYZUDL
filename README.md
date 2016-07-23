@@ -12,8 +12,8 @@
   + 本週預定完成項目
   + 本週已完成項目
   + 本週未完成項目
-    + 原因
-  + 開發中遇到的問題
+    + 若遇到開發困難請提出
+  + 其他開發中遇到的問題
   + 最後 Commit link
     + Android 和 iOS 請同時釋出可 work 的 Release
       + iOS 使用 TestFight
