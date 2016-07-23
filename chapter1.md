@@ -1,3 +1,4 @@
-# First Chapter
+# 第一週開發記錄
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+#### 時間: 2016/07/23
+#### 
