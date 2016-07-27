@@ -6,5 +6,5 @@
 * [第二週724~730](week_724_730.md)
    * [Backend Team - 724~730](backend_team_-_724-730.md)
    * [iOS Team - 7/24 ~ 7/30](iOS Team - 7/24 ~ 7/30)
-   * Data Team - 7/24 ~ 7/30
+   * [Data Team - 7/24 ~ 7/30](data_team_-_724_~_730.md)
 
