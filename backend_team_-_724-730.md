@@ -47,3 +47,7 @@
 + [#6](https://github.com/bingluen/HeyYZU/issues/6)
 + [#5](https://github.com/bingluen/HeyYZU/issues/5)
 + [#4](https://github.com/bingluen/HeyYZU/issues/4)
+
+### 其他問題
+
+考慮設計「所有裝置登出」，配合重新設計 Token ＆ 登入機制
