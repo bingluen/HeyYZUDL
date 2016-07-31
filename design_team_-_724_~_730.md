@@ -11,17 +11,45 @@
 ### 預定開發進度
 
 + iOS & Android 通用載入動畫重製
+  + 設計
+  + SpriteSheet 輸出
++ 輸出 Android 圖書館 Asset x 12色
+  +  教材檔案格式
+  +  教材 Avability 小 Icon
+  +  教材 Avability 大 Icon/Button
 + 圖書館空狀態設計
   + iOS 
   + Android
++ Android 圖書館搜尋視覺
 + 翻新 iOS 圖書館搜尋介面
   + 視覺稿
   + Layout
-+ 把檔案下載中的提示樣式改掉
++ Dashboard 空狀態
+  + iOS
+    + 設計
+    + Layout
+    + Asset 輸出
+  + Android
+    + 設計
+    + Layout
+    + Asset 輸出
++ iOS Calendar 完善
+  + 事件詳細資訊
+    + 設計
+    + Layout
+    + Asset 輸出
+  + Filter 選單
+    + 設計
+    + Layout
+    + Asset 輸出
 
 ### 本週開發進度
 
-+ 全部完成
+未完成：
++ 圖書館空狀態設計
+  + iOS 
++ 輸出 Android 圖書館 Asset x 12色
+  +  教材 Avability 大 Icon/Button
 
 ### 新增 issue ＆ 處理
 
@@ -31,8 +59,11 @@
 
 #### 累積未解決
 
-+ 版面和顏色的精準配置
+未完成：
++ 圖書館空狀態設計
+  + iOS 
++ 輸出 Android 圖書館 Asset x 12色
+  +  教材 Avability 大 Icon/Button
 
 ### 其他問題
-
-缺幾乎所有的loading頁面，希望能先做出loading page
+筆記：iOS App bar Button(icon) size: 22, 44, 66px.
