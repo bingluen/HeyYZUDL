@@ -8,6 +8,7 @@
    * [iOS Team - 7/24 ~ 7/30](iOS_team_724_730.md)
    * [Data Team - 7/24 ~ 7/30](data_team_724_730.md)
    * [Web Team - 7/24 ~ 7/30](web_team_724_730.md)
+   * Design Team - 7/24 ~ 7/30
 * 第三週731~806
    * [iOS Team - 7/31 ~ 8/6](ios_team_-_731_~_86.md)
 
