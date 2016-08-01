@@ -9,7 +9,7 @@
    * [Data Team - 7/24 ~ 7/30](data_team_724_730.md)
    * [Web Team - 7/24 ~ 7/30](web_team_724_730.md)
    * [Design Team - 7/24 ~ 7/30](design_team_-_724_~_730.md)
-   * Android Team - 7/24 ~ 7/30
+   * [Android Team - 7/24 ~ 7/30](android_team_-_724_~_730.md)
 * [第三週731~806](di_san_zhou_731_~_806.md)
    * [iOS Team - 7/31 ~ 8/6](ios_team_-_731_~_86.md)
    * [Design Team - 7/31 ~ 8/6](design_team_-_731_~_86.md)
