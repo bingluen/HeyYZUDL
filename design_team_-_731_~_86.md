@@ -25,6 +25,7 @@
   +  視覺設計
   +  Layout
   +  Asset 輸出
++  iOS 圖書館Top BG 輸出
 +  活動報名UI
   +  iOS
     +  視覺設計
