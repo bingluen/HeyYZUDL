@@ -33,6 +33,7 @@
 +  iOS 圖書館Top BG 輸出
 + 輸出 Android 圖書館 Asset x 12色
   +  教材 Avability 大 Icon/Button 
++  側邊選單次級選單修改、Layout
 
 ### 新增 issue ＆ 處理
 
