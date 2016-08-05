@@ -16,7 +16,7 @@
 + deploy Build 11 到Testflight
 
 ### 本週開發進度
-
++ 都沒做到，倒是更改了Dashboard上的通知和作業的UI
 
 
 ### 新增 issue ＆ 處理
@@ -28,6 +28,9 @@
 #### 累積未解決
 
 + 把介面的細節寬高margin padding放上去
++ 把行事曆放上dashboard
++ 修正課程名稱過長的問題
++ 寫技術文件
 
 ### 其他問題
 
