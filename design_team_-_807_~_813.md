@@ -28,7 +28,11 @@
     +  視覺設計
   +  Android
     +  視覺設計
-
++  iOS 圖書館Banner圖輸出
++  iOS 個人設定
+  +  視覺設計
+  +  Layout
+  +  Asset 輸出
 ### 本週開發進度
 + 圖書館空狀態設計
   + iOS 
@@ -37,6 +41,11 @@
     + Asset輸出
   + Android
     + 視覺設計完善：搜尋結果
++  iOS 圖書館Banner圖輸出
++  iOS 個人設定
+  +  視覺設計
+  +  Layout
+  +  Asset 輸出
 
 ### 新增 issue ＆ 處理
 
