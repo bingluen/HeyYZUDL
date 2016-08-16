@@ -15,5 +15,5 @@
    * [Design Team - 7/31 ~ 8/6](design_team_-_731_~_86.md)
    * [Android Team - 7/31 ~ 8/6](androidd_team_-_731_~_86.md)
 * 第四週807~813
-   * Designer Team 8/07 ~ 8/13
+   * Design Team 8/07 ~ 8/13
 
