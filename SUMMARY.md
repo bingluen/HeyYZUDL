@@ -14,5 +14,4 @@
    * [iOS Team - 7/31 ~ 8/6](ios_team_-_731_~_86.md)
    * [Design Team - 7/31 ~ 8/6](design_team_-_731_~_86.md)
    * [Android Team - 7/31 ~ 8/6](androidd_team_-_731_~_86.md)
-* aa
 
