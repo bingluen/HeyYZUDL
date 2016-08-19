@@ -27,7 +27,7 @@
 + Android
   + Layout
   + Asset輸出
-+  Android 行事曆
++ Android 行事曆
   +  視覺設計
   +  Layout
   +  Asset 輸出
